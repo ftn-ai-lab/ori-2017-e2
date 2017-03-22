@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# C# binaries
+**/bin/*
+**/obj/*
+
+# VS project files
+**/*.suo
