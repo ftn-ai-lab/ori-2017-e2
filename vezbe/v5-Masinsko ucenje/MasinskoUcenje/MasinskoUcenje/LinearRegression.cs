@@ -19,7 +19,7 @@ namespace MasinskoUcenje
         public double predict(double x)
         {   
             // TODO 3: Implementirati funkciju predict koja na osnovu x vrednosti vraca
-            // predvinjenu vrednost y
+            // predvinjenu vrednost y = kx +n
             return 0;
         }
     }
